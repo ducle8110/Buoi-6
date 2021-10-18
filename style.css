@@ -158,6 +158,8 @@ li {
 .footer-text {
     color: #FFFFFF;
     margin-top: 15px;
+    margin-left: 0;
+    text-align: left;
 }
 
 #Pricing {
